@@ -1,0 +1,40 @@
+{"text":"Chaining","href":"http://javascriptissexy.com/beautiful-javascript-easily-create-chainable-cascading-methods-for-expressiveness/"}
+{"text":"Objects","href":"http://javascriptissexy.com/javascript-objects-in-detail/"}
+{"text":"Rendering React components","href":"http://jamesknelson.com/rendering-react-components-to-the-document-body/"}
+{"text":"Understanding closures, callbacks and promises","href":"https://gist.github.com/amysimmons/3d228a9a57e30ec13ab1"}
+{"text":"ES6 Promises","href":"http://jamesknelson.com/grokking-es6-promises-the-four-functions-you-need-to-avoid-callback-hell/"}
+{"text":"Factory Functions","href":"https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e#.set4jrm6p"}
+{"text":"Learn Raw React","href":"http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/"}
+{"text":"Simple react app","href":"https://scotch.io/tutorials/create-a-simple-to-do-app-with-react"}
+{"text":"OO PHP (video)","href":"https://www.youtube.com/watch?v=5YaF8xTmxs4"}
+{"text":"The Ultimate List of Ecommerce Tools & Resources","href":"https://www.rocketmill.co.uk/the-ultimate-list-of-ecommerce-tools-resources"}
+{"text":"utf8mb4 mySQL","href":"https://mathiasbynens.be/notes/mysql-utf8mb4"}
+{"text":"Top JavaScript Frameworks & Topics to Learn in 2017","href":"https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.dm1m96hxc"}
+{"text":"Angular2 QuickStart in Windows. (Video)","href":"https://www.youtube.com/watch?v=Nm2MATwhfoY"}
+{"text":"Node.js Tutorial for Beginners","href":"https://www.youtube.com/watch?v=-u-j7uqU7sI"}
+{"text":"MongoDB Tutorial for Beginners","href":"https://www.youtube.com/watch?v=1uFY60CESlM&list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO"}
+{"text":"Shopify","href":"https://www.shopify.com/free-trial?term=%2Becommerce%20%2Bbest&Network=Search&SiteTarget=&mt=b&adid=140405539082&device=c&test=&adpos=1t1&CampaignId=55576003&gclid=CO2qu4305dICFdJWDQodly4F2Q"}
+{"text":"JavaScript Patterns (Video)","href":"https://www.youtube.com/watch?v=xizFJHKHdHw"}
+{"text":"DOS commands 2017","href":"https://www.lifewire.com/list-of-command-prompt-commands-4092302"}
+{"text":"REST API (video)","href":"https://www.youtube.com/watch?v=7YcW25PHnAA"}
+{"text":"Decorators","href":       "http://javascript.info/tutorial/decorators"}
+{"text":"Ecommerce Toolkit","href":       "https://www.rocketmill.co.uk/the-ultimate-list-of-ecommerce-tools-resources"}
+{"text":"PDO VS MySQLi","href":              "https://code.tutsplus.com/tutorials/pdo-vs-mysqli-which-should-you-use--net-24059","covered":"true"}
+{"text":"Apply, Call, and Bind","href":    "http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/"}
+{"text":"Angular 2","href":          "http://eisenbergeffect.bluespire.com/all-about-angular-2-0/"}
+{"text":"What is Aurelia?","href":             "http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/what-is-aurelia/1"}
+{"text":"Abstract Classes and Interface in PHP","href":  "http://www.techflirt.com/tutorials/oop-in-php/abstract-classes-interface.html"}
+{"text":"Mother Lode","href":   "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources"}
+{"text":"PHP Design Patterns","href":    "http://www.fluffycat.com/PHP-Design-Patterns/"}
+{"text":"PHP Design Patterns","href":    "http://www.phptherightway.com/pages/Design-Patterns.html"}
+{"text":"PHP The Right Way","href":       "http://www.phptherightway.com/"}
+{"text":"Prototype","href":"http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/","covered":"true"}
+{"text":"funfunfunction","href":"https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q"}
+{"text":"Derek Banas","href":"https://www.youtube.com/results?search_query=Derek+Banas"}
+{"text":"Pitch to frequency map","href":"http://peabody.sapp.org/class/st2/lab/notehz"}
+{"text":"Developed sounds","href":"https://codepen.io/DonKarlssonSan/post/fun-with-web-audio-api"}
+{"text":"Accelerated Mobile Pages (AMP) implementation","href":"http://searchengineland.com/get-started-accelerated-mobile-pages-amp-240688"}
+{"text":"IDE for ECMA6 (Visual Studio)","href":"https://code.visualstudio.com/"}
+{"text":"Angular 2 (Programming with Mosh)","href":"https://www.youtube.com/watch?v=_-CD_5YhJTA"}
+{"text":"Visual design patterns","href":"https://www.slideshare.net/yinyang581525/javascript-common-design-patterns"}
+{"text":"Some musical fun","href":"http://stackoverflow.com/questions/6343450/generating-sound-on-the-fly-with-javascript-html5"}
