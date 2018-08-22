@@ -32,6 +32,13 @@
 <script>
 	
 	//using 'let' or 'var' here makes no difference since it is already in the global scope anyway
+
+	var $ = function(element){//$ becomes shorthand for document.getElementById
+	
+		return document.getElementById(element);
+	
+	}
+
 	var getFileContents = function (source) {//get data from text file
 		
 		try{
@@ -112,9 +119,10 @@
 	
 	document.addEventListener( "DOMContentLoaded",  function(){//native javascript domReady
 			
-		makeLinks('links.txt',document.getElementById('content'));
+		makeLinks('links.txt',$('content'));
 	
 	});
+	
 
 </script>
 
